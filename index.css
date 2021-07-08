@@ -1,0 +1,31 @@
+body
+{
+	background: black;
+}
+.board
+{
+	align-items: center;
+	justify-content: center;
+	background: orange;
+	display: inline-grid;
+	width: 50vmin;
+	height: 50vmin;
+	position: relative;
+}
+.box1
+{
+	background: black;
+	width: 15vmin;
+	height: 15vmin;
+	text-align: center;
+	font-size: 70px;
+	font-family: 100;
+	font-family: verdana;
+	color: orange;
+}
+.head
+{
+	font-size: 40px;
+	font-family: Tahoma;
+	color: orange;
+}
